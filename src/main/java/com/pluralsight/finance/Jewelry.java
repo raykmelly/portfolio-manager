@@ -1,4 +1,5 @@
 package com.pluralsight.finance;
 
-public class Jewelry {
+public class Jewelry extends FixedAsset implements Valuable {
+
 }
