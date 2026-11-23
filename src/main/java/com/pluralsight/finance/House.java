@@ -17,7 +17,7 @@ public class House extends FixedAsset implements Valuable{
     // Methods
     @Override
     public double getValue() {
-        // Calculate the real value of the house with formula not given
+        // Calculate the real value of the house with formula
         // For now just returns the market value of the asset.
         return super.getValue();
     }
